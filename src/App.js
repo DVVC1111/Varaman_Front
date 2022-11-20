@@ -4,7 +4,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <h1>This is team Varaman</h1>
+      <h2>Team Member</h2>
+      <p>David Vicheth</p>
+      <p>Senghak Lim</p>
+      <p>Raksa Ma</p>
     </div>
   );
 }
